@@ -19,3 +19,32 @@
 [![](https://komarev.com/ghpvc/?username=Awab7-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Credly Credential Verification Report
+
+Checked: 18 Oct 2026. Pages were opened individually. Credly renders issue/expiry dates with JavaScript, so **no issue date, expiry date or award status was visible** to me on any page. Dates in the CV (2026) come from your original CV and must be confirmed by you.
+
+| # | Verified title (exact, from page) | Issuer shown | Earner name shown | Type | CV treatment |
+|---|---|---|---|---|---|
+| 1 | IBM Generative AI Engineering Professional Certificate | Coursera | Awab Imad AL-Sheikh AL-mahi | Professional certificate (IBM-branded, delivered via Coursera) | Listed first, with Verify link |
+| 2 | Certified Kubernetes Administrator (CKA) | Coursera | **INTJ awab** | Course-completion badge (page says the course prepares learners for the CKA exam) | Listed as "CKA preparation course, not the CNCF exam". **No link added** (see flag) |
+| 3 | IBM DevOps and Software Engineering Professional Certificate | Coursera | Awab Imad AL-Sheikh AL-mahi | Professional certificate (IBM-branded, delivered via Coursera) | Listed first, with Verify link |
+| 4 | Continuous Integration & Continuous Delivery (CI/CD) | Coursera | Awab Imad AL-Sheikh AL-mahi | Course-completion badge (Tekton, OpenShift Pipelines, ArgoCD) | Listed under Industry Credentials, with Verify link |
+
+Public URLs (canonical form declared by each page):
+1. https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c
+2. https://www.credly.com/badges/a34f67db-dda5-4c2b-91ce-6b35e0abae4f
+3. https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a
+4. https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52
+
+## Flags for you
+- **Badge 2 name mismatch:** it is issued to "INTJ awab", not your name on badges 1, 3 and 4. I could not confirm it is yours, so I left its link out of the CV. If it is yours, change the display name on Credly and I can add the link.
+- **Issuer wording:** the pages name **Coursera** as issuer. "IBM" appears in the badge titles of #1 and #3 only. For #4 your original CV said IBM; the page does not show that, so the CV says "Coursera (IBM)". Change it if wrong.
+- **No external exam claims:** none of the four is a proctored vendor exam. #2 is explicitly labelled as preparation, not the CNCF exam.
+- **Not verified (no link available):** Intel Partner Technical Pro, Full Stack Software Developer Assessment (IBM), Manara courses, Cisco, Google Cloud, Docker, Linux Foundation LFEL1011/LFD125, Anthropic Claude Academy. Kept as in your CV. Send the certificate URLs and I will link them.
+- **Moved out of the one-page CV (lower relevance):** Exploring Machine Learning Methods, Algorithms, and Tools; IBM Z DevOps Testing Fundamentals; Software Engineering Basics for Embedded Systems (LFD116); Google Crash Course on Python; A Tour of Google Cloud Hands-on Labs; AI Fluency for Nonprofits. Nothing was deleted from your records; keep them on LinkedIn.
+
+
+
+
