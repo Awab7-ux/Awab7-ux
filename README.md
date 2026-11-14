@@ -1,191 +1,261 @@
-# 💫 About Me:
-💻 I’m a Software Engineer passionate about building modern, scalable, and user-focused applications.<br>🚀 I’m currently working on full-stack web and mobile applications.<br>🤝 I’m looking to collaborate on software engineering, open-source, and innovative technology projects.<br>🧩 I’m interested in frontend, backend, APIs, databases, and cloud technologies.<br>🌱 I’m currently expanding my skills in Cloud Engineering, DevOps, and scalable system design.<br>💬 Ask me about software development, web & mobile applications, APIs, Git/GitHub, and cloud technologies.<br>⚡ Fun fact: I enjoy turning ideas into real-world applications and continuously improving how I build software.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/awab-imad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awabpasta@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Awab7-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Awab7-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Awab7-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Awab7-ux&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Awab7-ux&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# Credly Credential Verification Report
-
-Checked: 18 Oct 2026. Pages were opened individually. Credly renders issue/expiry dates with JavaScript, so **no issue date, expiry date or award status was visible** to me on any page. Dates in the CV (2026) come from your original CV and must be confirmed by you.
-
-| # | Verified title (exact, from page) | Issuer shown | Earner name shown | Type | CV treatment |
-|---|---|---|---|---|---|
-| 1 | IBM Generative AI Engineering Professional Certificate | Coursera | Awab Imad AL-Sheikh AL-mahi | Professional certificate (IBM-branded, delivered via Coursera) | Listed first, with Verify link |
-| 2 | Certified Kubernetes Administrator (CKA) | Coursera | **INTJ awab** | Course-completion badge (page says the course prepares learners for the CKA exam) | Listed as "CKA preparation course, not the CNCF exam". **No link added** (see flag) |
-| 3 | IBM DevOps and Software Engineering Professional Certificate | Coursera | Awab Imad AL-Sheikh AL-mahi | Professional certificate (IBM-branded, delivered via Coursera) | Listed first, with Verify link |
-| 4 | Continuous Integration & Continuous Delivery (CI/CD) | Coursera | Awab Imad AL-Sheikh AL-mahi | Course-completion badge (Tekton, OpenShift Pipelines, ArgoCD) | Listed under Industry Credentials, with Verify link |
-
-Public URLs (canonical form declared by each page):
-1. https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c
-2. https://www.credly.com/badges/a34f67db-dda5-4c2b-91ce-6b35e0abae4f
-3. https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a
-4. https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52
-
-## Flags for you
-- **Badge 2 name mismatch:** it is issued to "INTJ awab", not your name on badges 1, 3 and 4. I could not confirm it is yours, so I left its link out of the CV. If it is yours, change the display name on Credly and I can add the link.
-- **Issuer wording:** the pages name **Coursera** as issuer. "IBM" appears in the badge titles of #1 and #3 only. For #4 your original CV said IBM; the page does not show that, so the CV says "Coursera (IBM)". Change it if wrong.
-- **No external exam claims:** none of the four is a proctored vendor exam. #2 is explicitly labelled as preparation, not the CNCF exam.
-- **Not verified (no link available):** Intel Partner Technical Pro, Full Stack Software Developer Assessment (IBM), Manara courses, Cisco, Google Cloud, Docker, Linux Foundation LFEL1011/LFD125, Anthropic Claude Academy. Kept as in your CV. Send the certificate URLs and I will link them.
-- **Moved out of the one-page CV (lower relevance):** Exploring Machine Learning Methods, Algorithms, and Tools; IBM Z DevOps Testing Fundamentals; Software Engineering Basics for Embedded Systems (LFD116); Google Crash Course on Python; A Tour of Google Cloud Hands-on Labs; AI Fluency for Nonprofits. Nothing was deleted from your records; keep them on LinkedIn.
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A192F,60:0B3C8C,100:06B6D4&text=Awab%20Imad&fontColor=E6F1FF&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Awab Imad - Software Engineer, Backend and Full-Stack Developer banner" width="100%"/>
+<img src="assets/banner.svg" alt="Awab Imad - Software Engineer, Backend and Full-Stack Developer, AI-Integrated Systems" width="100%"/>
 
 <a href="https://github.com/Awab7-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+%26+Full-Stack+Engineer;Flask+%7C+FastAPI+%7C+React+%7C+PostgreSQL;AI-Integrated+Web+Applications;Learning+Cloud+%26+DevOps+in+public" alt="Typing animation: Backend and Full-Stack Engineer, Flask, FastAPI, React, PostgreSQL, AI-integrated web applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+intelligent+software+systems;Scalable+backend+architectures+%7C+Flask+%26+FastAPI;AI-integrated+applications+%7C+React+%26+TypeScript;Currently+deepening+Cloud+%26+DevOps+engineering" alt="Typing animation: building intelligent software systems, scalable backend architectures, AI-integrated applications, deepening cloud and DevOps engineering"/>
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F)](https://www.linkedin.com/in/awab-imad-5a541637b)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F)](mailto:awabpasta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux)
+[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux)
+
+<sub>**Current focus:** AI-integrated products &nbsp;·&nbsp; multi-tenant backends &nbsp;·&nbsp; Cloud &amp; DevOps</sub>
 
 </div>
 
 <br/>
 
-## 👋 About
+<div align="center">
 
-Computing graduate and software engineer who builds **production-minded, AI-integrated web applications**: secure REST backends, clean React frontends, containerized deployments.
+[About](#about) · [Sahatak](#featured-sahatak) · [Lexera](#lexera) · [CloudOps](#cloudops-platform) · [PMS](#project-management-system-pms) · [Other work](#other-engineering-projects) · [Skills](#technical-skills) · [Certifications](#certifications) · [Analytics](#github-analytics) · [Contact](#contact)
 
-- 🔧 Backend and full-stack work with **Flask, FastAPI, React and PostgreSQL**, with JWT authentication, Docker and Nginx
-- 🤖 Integrating AI features (LLMs, speech, semantic search) into real products
-- ☁️ Currently deepening **Cloud Engineering, DevOps and scalable system design**
-- 🤝 Open to collaboration on software engineering, open-source and innovative technology projects
+</div>
 
 <br/>
 
-## 🚀 Featured Projects
+## About
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:0B3C8C&text=Sahatak&fontColor=E6F1FF&fontSize=34" alt="Sahatak project banner" width="100%"/>
-      <h3>🩺 Sahatak</h3>
-      <b>Bilingual (Arabic / English) telemedicine platform</b>
-      <ul>
-        <li>JWT-based authentication and role-based flows for doctors and patients</li>
-        <li>Appointments, medical records, pharmacy/cart, clinics, notifications and chat</li>
-        <li>AI assistant (OpenAI GPT / Whisper) and Jitsi Meet video consultations</li>
-        <li>Flask + PostgreSQL backend, Dockerized with docker-compose</li>
-      </ul>
-      <img src="https://skillicons.dev/icons?i=flask,postgres,react,docker,nginx&theme=dark" alt="Sahatak stack: Flask, PostgreSQL, React, Docker, Nginx"/>
-      <br/><br/>
-      <a href="https://github.com/Awab7-ux/Sahatak-Telemedicine-App2">
-        <img src="https://img.shields.io/badge/View_Repository-0B3C8C?style=for-the-badge&logo=github&logoColor=white" alt="Sahatak GitHub repository"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:0891B2&text=Lexera&fontColor=E6F1FF&fontSize=34" alt="Lexera project banner" width="100%"/>
-      <h3>⚖️ Lexera</h3>
-      <b>AI contract intelligence SaaS platform</b>
-      <ul>
-        <li>Multi-tenant architecture with RBAC and JWT authentication</li>
-        <li>Async document processing with Celery and Redis</li>
-        <li>Semantic search with PostgreSQL/pgvector and local sentence-transformer embeddings</li>
-        <li>React/TypeScript frontend; deployed across Railway, Neon, Upstash and Vercel</li>
-      </ul>
-      <img src="https://skillicons.dev/icons?i=python,react,ts,postgres,redis,vercel&theme=dark" alt="Lexera stack: Python, React, TypeScript, PostgreSQL, Redis, Vercel"/>
-      <br/><br/>
-      <a href="https://github.com/Awab7-ux/Lexera">
-        <img src="https://img.shields.io/badge/View_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Lexera GitHub repository"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:1D4ED8&text=CloudOps%20Platform&fontColor=E6F1FF&fontSize=34" alt="CloudOps Platform project banner" width="100%"/>
-      <h3>☁️ CloudOps Platform</h3>
-      <b>Cloud / DevOps portfolio project (in active development)</b>
-      <ul>
-        <li>Tested FastAPI REST service with layered architecture (routers, services, schemas, core) and request-ID logging</li>
-        <li>Container-ready: Docker image running as a non-root user</li>
-        <li>GitHub Actions workflow for automated tests (pytest)</li>
-        <li>Roadmap: Kubernetes, Terraform, Prometheus/Grafana monitoring</li>
-      </ul>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,docker,githubactions,sqlite&theme=dark" alt="CloudOps Platform stack: Python, FastAPI, Docker, GitHub Actions, SQLite"/>
-      <br/><br/>
-      <a href="https://github.com/Awab7-ux/cloudops-platform">
-        <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="CloudOps Platform GitHub repository"/>
-      </a>
-    </td>
-  </tr>
-</table>
+I design, build and integrate complete software systems: secure REST backends, clean React and React Native clients, and AI features that sit inside real product workflows. I enjoy turning complex ideas into practical, usable software.
+
+| Engineering focus | What it looks like in my projects |
+| :-- | :-- |
+| **Backend and APIs** | Flask and FastAPI services, layered architecture, JWT authentication, role-based access |
+| **Full-stack delivery** | React and TypeScript web apps, a React Native / Expo mobile app, Arabic and English interfaces |
+| **AI integration** | LLM triage and risk analysis, speech-to-text, semantic search with pgvector |
+| **Systems and data** | PostgreSQL, MySQL, SQLite, Redis, Celery background processing, multi-tenant data isolation |
+| **Cloud and DevOps** | Docker, Docker Compose, GitHub Actions, Kubernetes manifests (local kind), Nginx |
+
+Computing graduate (B.Sc.), open to **Software Engineer, Backend, Full-Stack and AI Engineer** roles, and to collaboration on open-source and innovative technology projects.
 
 <br/>
 
-## 🛠️ Technical Skills
-
-<table>
-  <tr>
-    <td width="30%"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS"/></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" alt="Flask, FastAPI, Node.js"/> &nbsp;REST APIs · JWT auth · Celery</td>
-  </tr>
-  <tr>
-    <td><b>Frontend &amp; Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="React, Tailwind CSS, Bootstrap"/></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis"/> &nbsp;pgvector</td>
-  </tr>
-  <tr>
-    <td><b>AI &amp; Intelligent Systems</b></td>
-    <td><img src="https://img.shields.io/badge/OpenAI_GPT_%26_Whisper-0A192F?style=flat-square&logo=openai&logoColor=38BDF8" alt="OpenAI GPT and Whisper"/> <img src="https://img.shields.io/badge/Semantic_Search-0A192F?style=flat-square&logoColor=38BDF8" alt="Semantic search"/> <img src="https://img.shields.io/badge/Sentence_Transformers-0A192F?style=flat-square&logoColor=38BDF8" alt="Sentence Transformers"/></td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gcp,vercel&theme=dark" alt="Docker, Nginx, GitHub Actions, Google Cloud, Vercel"/></td>
-  </tr>
-  <tr>
-    <td><b>Testing &amp; Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/> &nbsp;pytest</td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Analytics
+## Featured: Sahatak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=Awab7-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1" alt="Awab7-ux GitHub stats"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Awab7-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&text_color=CBD5E1" alt="Awab7-ux most used languages"/>
+### Sahatak (صحتك) · Integrated Telemedicine Platform
+
+*Bilingual (Arabic / English) digital healthcare: patients, doctors and administrators on one shared backend.*
+
+</div>
+
+Access to healthcare can be limited by distance, transportation, scarce medical resources and unreliable connectivity. Sahatak aims to reduce those barriers with remote consultations, appointment booking, medical records and AI-assisted preliminary symptom assessment. The engineering challenge was making several clients, a REST backend and external services behave as one coherent system.
+
+<img src="assets/sahatak-architecture.svg" alt="Sahatak architecture: patient mobile app and web portal connect to a Flask REST API, which uses a database, OpenAI and Jitsi Meet" width="100%"/>
+
+### The three components
+
+| Component | Stack | Repository |
+| :-- | :-- | :-- |
+| **Patient mobile app** | React Native · Expo · TypeScript | [`Sahatak-Telemedicine-App2/sahatak-mobile`](https://github.com/Awab7-ux/Sahatak-Telemedicine-App2/tree/main/sahatak-mobile) |
+| **Web portal** for doctors, patients and admins | HTML · JavaScript · Bootstrap 5 (RTL support) | [`sahataksudan-collab/Sahatak`](https://github.com/sahataksudan-collab/Sahatak) (team repository) |
+| **Shared REST backend** | Python · Flask · SQLAlchemy · JWT | [`sahataksudan-collab/Sahatak`](https://github.com/sahataksudan-collab/Sahatak) (team repository) |
+
+<sub>The Awab7-ux repository also contains a companion Flask + PostgreSQL backend with Docker Compose (auth, doctors, appointments, records, pharmacy, clinics, notifications, chat) and a web prototype. The deployed web stack uses MySQL; local development falls back to SQLite.</sub>
+
+### Patient mobile app modules
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Authentication and profile</b><br/><sub>Registration, login, profile and user settings</sub></td>
+    <td width="33%" valign="top"><b>Doctor discovery</b><br/><sub>Browse doctors and view profiles</sub></td>
+    <td width="33%" valign="top"><b>Appointments</b><br/><sub>Booking flow, details and history</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Medical records</b><br/><sub>Records and care-summary screens</sub></td>
+    <td valign="top"><b>Video consultation</b><br/><sub>Jitsi Meet sessions configured by the backend</sub></td>
+    <td valign="top"><b>Messaging</b><br/><sub>Patient-doctor chat over HTTP polling</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Pharmacy</b><br/><sub>Products and cart workflows</sub></td>
+    <td valign="top"><b>Clinic locator</b><br/><sub>Map-based clinic exploration</sub></td>
+    <td valign="top"><b>Checkups and notifications</b><br/><sub>Medical checkup screen, notification center, Calm Mode setting</sub></td>
+  </tr>
+</table>
+
+### Doctor and admin web portal
+
+Doctor authentication and verification, dashboards, availability management, electronic health records, prescriptions, patient messaging, video consultations, notifications, calendar sync, and admin and support tooling, all served by the shared backend.
+
+### AI-assisted symptom assessment
+
+<img src="assets/sahatak-ai-workflow.svg" alt="Sahatak AI workflow: text or voice symptoms go through Whisper and a GPT triage prompt, producing telemedicine, in-person or emergency outcomes" width="100%"/>
+
+Voice input is transcribed with OpenAI Whisper; a GPT triage prompt (language-matched to the patient) recommends a care path. The result is a **preliminary assessment and does not replace professional medical diagnosis.**
+
+### Patient journey
+
+<img src="assets/sahatak-journey.svg" alt="Conceptual Sahatak patient journey from opening the app to follow-up care" width="100%"/>
+
+### Engineering highlights
+
+| | |
+| :-- | :-- |
+| **56** registered users | **50+** AI symptom-assessment queries processed |
+| **3** coordinated components | **AR / EN** bilingual experience |
+
+<sub>User and query figures are historical project metrics, not live counters. The mobile APK has not been publicly released.</sub>
+
+Technical notes: JWT authentication · Jitsi Meet integration · OpenAI GPT and Whisper · messaging deliberately built on **HTTP polling rather than WebSockets** for proxy compatibility.
+
+<br/>
+
+## Lexera
+
+<div align="center">
+
+### AI Contract Intelligence SaaS Platform
+
+</div>
+
+A multi-tenant platform that automates legal-contract review: risk analysis, semantic search and renewal alerts for organizations with large contract portfolios.
+
+<img src="assets/lexera-architecture.svg" alt="Lexera architecture: React frontend, Flask API with tenant isolation, Celery and Redis workers, AI services, PostgreSQL with pgvector" width="100%"/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Multi-tenant security</b><br/><sub>Organization-scoped data on every query, JWT auth, admin / manager / viewer roles, automated tenant-isolation tests</sub></td>
+    <td width="50%" valign="top"><b>AI contract analysis</b><br/><sub>LLM risk analysis flags problematic clauses and missing terms; version-comparison summaries; voice notes with speech-to-text</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Semantic search</b><br/><sub>PostgreSQL pgvector with local sentence-transformer embeddings to reduce API cost</sub></td>
+    <td valign="top"><b>Background processing</b><br/><sub>Celery and Redis for analysis, transcription and scheduled renewal alerts</sub></td>
+  </tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=python,flask,react,ts,vite,tailwind,postgres,redis,docker,vercel&theme=dark" alt="Lexera stack: Python, Flask, React, TypeScript, Vite, Tailwind CSS, PostgreSQL, Redis, Docker, Vercel"/>
+
+Deployed across Railway, Neon, Upstash and Vercel. &nbsp;[![Lexera repository](https://img.shields.io/badge/Repository-Lexera-818CF8?style=flat-square&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux/Lexera)
+
+<br/>
+
+## CloudOps Platform
+
+<div align="center">
+
+### Cloud Infrastructure and Deployment Management (in active development)
+
+</div>
+
+A FastAPI backend with a React dashboard for managing applications, deployments, logs and alerts, built to practice production-style DevOps: testing, containers, CI and Kubernetes.
+
+<img src="assets/cloudops-pipeline.svg" alt="CloudOps delivery pipeline: GitHub Actions CI, Docker Compose, local Kubernetes, with monitoring and Terraform as roadmap items" width="100%"/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>API infrastructure</b><br/><sub>Layered routers, services, repositories and schemas; request-ID logging; pagination; around 240 pytest test functions</sub></td>
+    <td width="33%" valign="top"><b>Containerization</b><br/><sub>Docker images (non-root backend), Compose, React served through Nginx</sub></td>
+    <td width="33%" valign="top"><b>CI and Kubernetes</b><br/><sub>GitHub Actions for backend and frontend; Deployment, Service, ConfigMap and PVC manifests for local kind</sub></td>
+  </tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,vite,docker,nginx,kubernetes,githubactions,sqlite&theme=dark" alt="CloudOps stack: Python, FastAPI, React, TypeScript, Vite, Docker, Nginx, Kubernetes, GitHub Actions, SQLite"/>
+
+**Roadmap (not yet implemented):** Terraform and Prometheus / Grafana monitoring. **Known limits:** SQLite, no authentication yet, some dashboard pages use labeled demo data. &nbsp;[![CloudOps repository](https://img.shields.io/badge/Repository-cloudops--platform-2563EB?style=flat-square&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux/cloudops-platform)
+
+<br/>
+
+## Project Management System (PMS)
+
+<div align="center">
+
+### Multi-Tenant Project Management SaaS (active development)
+
+</div>
+
+A project-management platform for organizations and teams, inspired by tools such as Jira, Asana and Trello. The backend foundation (authentication, organizations, teams, users, role-based access) is implemented with a Flask application factory, SQLAlchemy and migrations; the system design, ERD and use-case diagrams are documented in the repository.
+
+<img src="assets/pms-hierarchy.svg" alt="PMS hierarchy from super admin to organizations, teams, projects and tasks, with implemented and planned parts distinguished" width="100%"/>
+
+<table>
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Awab7-ux/PMS/main/images/dashboard.png" alt="PMS workspace dashboard screenshot" width="100%"/></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Awab7-ux/PMS/main/images/calendar.png" alt="PMS calendar screenshot" width="100%"/></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/Awab7-ux/PMS/main/images/reports.png" alt="PMS reports screenshot" width="100%"/></td>
+  </tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,redis,docker,nginx,bootstrap&theme=dark" alt="PMS planned stack: Python, Flask, PostgreSQL, Redis, Docker, Nginx, Bootstrap"/>
+
+<sub>Planned stack per the design docs; the project is in progress and not complete.</sub> &nbsp;[![PMS repository](https://img.shields.io/badge/Repository-PMS-06B6D4?style=flat-square&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux/PMS)
+
+<br/>
+
+## Other Engineering Projects
+
+| Project | Purpose | Stack | Status |
+| :-- | :-- | :-- | :-- |
+| [accounts](https://github.com/Awab7-ux/accounts) | Accounts REST service with CI workflow and security headers | Python · Docker · GitHub Actions | Coursework |
+| [tax-calculator-devops-capstone](https://github.com/Awab7-ux/tax-calculator-devops-capstone) | Tax calculation service with tests and Kubernetes manifests | Python · Flask · Docker · Kubernetes · pytest | Coursework |
+| [ci-cd-final-project](https://github.com/Awab7-ux/ci-cd-final-project) | Small service with automated tests and container build | Node.js · Docker | Coursework |
+| [xrwvm-fullstack_developer_capstone](https://github.com/Awab7-ux/xrwvm-fullstack_developer_capstone) | Full-stack capstone with CI and deployment configuration | Django · Docker | Coursework |
+| [onlinecourse-final-project](https://github.com/Awab7-ux/onlinecourse-final-project) | Online course app with an assessment feature | Django | Coursework |
+| [Back-end-Development-Capstone](https://github.com/Awab7-ux/Back-end-Development-Capstone) | Concert-site backend capstone | Django | Coursework |
+| [med_appt](https://github.com/Awab7-ux/med_appt) | Online doctor-appointment booking front end | JavaScript · HTML · CSS | Coursework |
+
+<br/>
+
+## Technical Skills
+
+<table>
+  <tr><td width="28%"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS"/></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="Flask, FastAPI"/> &nbsp;<sub>SQLAlchemy · REST APIs · JWT · Celery</sub></td></tr>
+  <tr><td><b>Frontend and mobile</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="React, Vite, Tailwind CSS, Bootstrap"/> &nbsp;<sub>React Native · Expo</sub></td></tr>
+  <tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis"/> &nbsp;<sub>pgvector</sub></td></tr>
+  <tr><td><b>AI engineering</b></td><td><sub>OpenAI API · Whisper · Groq-hosted LLMs · sentence-transformers · embeddings · semantic search</sub></td></tr>
+  <tr><td><b>Cloud and DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,gcp,vercel&theme=dark" alt="Docker, Kubernetes, Nginx, GitHub Actions, Google Cloud, Vercel"/></td></tr>
+  <tr><td><b>Testing and tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,jest&theme=dark" alt="Git, GitHub, Jest"/> &nbsp;<sub>pytest · API and tenant-isolation testing</sub></td></tr>
+  <tr><td><b>Learning next</b></td><td><sub>Terraform · Prometheus / Grafana · scalable system design</sub></td></tr>
+</table>
+
+### Engineering principles
+
+- **Isolate tenants by design:** scope every query by organization and test the boundary.
+- **Layer the backend:** routers, services, repositories and schemas keep logic testable.
+- **Keep secrets server-side:** environment-based configuration, containers running as non-root.
+- **Be honest about status:** shipped, in progress and roadmap are labeled separately.
+
+<br/>
+
+## Certifications
+
+<div align="center">
+
+[![IBM Generative AI Engineering Professional Certificate](https://img.shields.io/badge/Professional_Certificate-IBM_Generative_AI_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c)
+
+[![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/Professional_Certificate-IBM_DevOps_%26_Software_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a)
+
+[![Continuous Integration and Continuous Delivery CI/CD](https://img.shields.io/badge/Course_Badge-CI%2FCD_(Coursera)-06B6D4?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52)
+
+<sub>Professional certificates and course-completion badges delivered via Coursera and verifiable on Credly. None is a proctored vendor exam.</sub>
+
+</div>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Awab7-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1" alt="Awab7-ux GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Awab7-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&text_color=CBD5E1" alt="Awab7-ux most-used languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=Awab7-ux&theme=tokyonight&hide_border=true&background=0A192F&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8" alt="Awab7-ux contribution streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awab7-ux&bg_color=0A192F&color=38BDF8&line=1D4ED8&point=06B6D4&area=true&hide_border=true" alt="Awab7-ux contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awab7-ux&bg_color=0A192F&color=38BDF8&line=2563EB&point=E6F1FF&area=true&hide_border=true" alt="Awab7-ux contribution activity graph" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Awab7-ux&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Awab7-ux GitHub trophies"/>
 
@@ -201,34 +271,17 @@ Computing graduate and software engineer who builds **production-minded, AI-inte
 
 <br/>
 
-## 🎓 Certifications
+## Contact
 
 <div align="center">
 
-[![IBM Generative AI Engineering Professional Certificate](https://img.shields.io/badge/IBM-Generative_AI_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c)
-[![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM-DevOps_%26_Software_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a)
-[![Continuous Integration and Continuous Delivery CI/CD](https://img.shields.io/badge/Coursera-CI%2FCD_Course-06B6D4?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52)
+*I build software that is reliable, well-tested and honest about what it does. Let's talk about engineering roles or collaboration.*
 
-<sub>Professional certificates and course-completion badges issued via Coursera and verifiable on Credly. They are not proctored vendor exams.</sub>
-
-</div>
-
-<br/>
-
-## 📬 Let's Connect
-
-<div align="center">
-
-*I enjoy turning ideas into reliable, real-world software. Open to Software Engineer, Backend, Full-Stack and AI Engineer roles.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awab-imad-5a541637b)
-[![Email](https://img.shields.io/badge/Email-awabpasta%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awabpasta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awab7-ux)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A192F,60:0B3C8C,100:06B6D4&section=footer" alt="Footer wave" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awab_Imad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F)](https://www.linkedin.com/in/awab-imad-5a541637b)
+[![Email](https://img.shields.io/badge/Email-awabpasta%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F)](mailto:awabpasta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux)
 
 </div>
-
 name: Generate Snake Animation
 
 on:
@@ -257,6 +310,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
