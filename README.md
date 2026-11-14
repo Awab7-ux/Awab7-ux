@@ -1,9 +1,9 @@
- <div align="center">
+<div align="center">
 
 <!-- ANIMATED HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:071426,45:0B3C8C,100:06B6D4&text=AWAB%20IMAD&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20AI%20Systems&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Awab Imad animated profile banner"/>
+<img src="assets/banner.svg" alt="Awab Imad, Full-Stack Software Engineer. AI and Backend Development. Building scalable software solutions." width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software+Systems;Designing+Scalable+Backend+Architectures;Engineering+AI-Integrated+Applications;Turning+Complex+Ideas+Into+Real+Products;Exploring+Cloud+%26+DevOps+Engineering" alt="Animated engineering introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Python+%26+Flask+Developer;AI+Integration+Engineer;Backend+%26+API+Development;Cloud+%26+DevOps+Enthusiast" alt="Typing animation: Full-Stack Software Engineer, Python and Flask Developer, AI Integration Engineer, Backend and API Development, Cloud and DevOps Enthusiast"/>
 
 <br/>
 
@@ -399,8 +399,6 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A192F,50:38BDF8,100:06B6D4" width="100%" alt="Decorative separator"/>
-
 **I build software that solves problems, connects systems and creates meaningful impact.**
 
 I'm open to engineering opportunities, technical discussions and collaborations on innovative software projects.
@@ -418,8 +416,6 @@ I'm open to engineering opportunities, technical discussions and collaborations 
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:0B3C8C,100:071426" width="100%" alt="Decorative animated footer"/>
 
 <sub>Designed and engineered by Awab Imad · Always building. Always learning.</sub>
 
