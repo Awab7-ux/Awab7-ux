@@ -48,3 +48,186 @@ Public URLs (canonical form declared by each page):
 
 
 
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A192F,60:0B3C8C,100:06B6D4&text=Awab%20Imad&fontColor=E6F1FF&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Awab Imad - Software Engineer, Backend and Full-Stack Developer banner" width="100%"/>
+
+<a href="https://github.com/Awab7-ux">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Backend+%26+Full-Stack+Engineer;Flask+%7C+FastAPI+%7C+React+%7C+PostgreSQL;AI-Integrated+Web+Applications;Learning+Cloud+%26+DevOps+in+public" alt="Typing animation: Backend and Full-Stack Engineer, Flask, FastAPI, React, PostgreSQL, AI-integrated web applications" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F)](https://www.linkedin.com/in/awab-imad-5a541637b)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F)](mailto:awabpasta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Awab7-ux)
+
+</div>
+
+<br/>
+
+## 👋 About
+
+Computing graduate and software engineer who builds **production-minded, AI-integrated web applications**: secure REST backends, clean React frontends, containerized deployments.
+
+- 🔧 Backend and full-stack work with **Flask, FastAPI, React and PostgreSQL**, with JWT authentication, Docker and Nginx
+- 🤖 Integrating AI features (LLMs, speech, semantic search) into real products
+- ☁️ Currently deepening **Cloud Engineering, DevOps and scalable system design**
+- 🤝 Open to collaboration on software engineering, open-source and innovative technology projects
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:0B3C8C&text=Sahatak&fontColor=E6F1FF&fontSize=34" alt="Sahatak project banner" width="100%"/>
+      <h3>🩺 Sahatak</h3>
+      <b>Bilingual (Arabic / English) telemedicine platform</b>
+      <ul>
+        <li>JWT-based authentication and role-based flows for doctors and patients</li>
+        <li>Appointments, medical records, pharmacy/cart, clinics, notifications and chat</li>
+        <li>AI assistant (OpenAI GPT / Whisper) and Jitsi Meet video consultations</li>
+        <li>Flask + PostgreSQL backend, Dockerized with docker-compose</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=flask,postgres,react,docker,nginx&theme=dark" alt="Sahatak stack: Flask, PostgreSQL, React, Docker, Nginx"/>
+      <br/><br/>
+      <a href="https://github.com/Awab7-ux/Sahatak-Telemedicine-App2">
+        <img src="https://img.shields.io/badge/View_Repository-0B3C8C?style=for-the-badge&logo=github&logoColor=white" alt="Sahatak GitHub repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:0891B2&text=Lexera&fontColor=E6F1FF&fontSize=34" alt="Lexera project banner" width="100%"/>
+      <h3>⚖️ Lexera</h3>
+      <b>AI contract intelligence SaaS platform</b>
+      <ul>
+        <li>Multi-tenant architecture with RBAC and JWT authentication</li>
+        <li>Async document processing with Celery and Redis</li>
+        <li>Semantic search with PostgreSQL/pgvector and local sentence-transformer embeddings</li>
+        <li>React/TypeScript frontend; deployed across Railway, Neon, Upstash and Vercel</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=python,react,ts,postgres,redis,vercel&theme=dark" alt="Lexera stack: Python, React, TypeScript, PostgreSQL, Redis, Vercel"/>
+      <br/><br/>
+      <a href="https://github.com/Awab7-ux/Lexera">
+        <img src="https://img.shields.io/badge/View_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Lexera GitHub repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A192F,100:1D4ED8&text=CloudOps%20Platform&fontColor=E6F1FF&fontSize=34" alt="CloudOps Platform project banner" width="100%"/>
+      <h3>☁️ CloudOps Platform</h3>
+      <b>Cloud / DevOps portfolio project (in active development)</b>
+      <ul>
+        <li>Tested FastAPI REST service with layered architecture (routers, services, schemas, core) and request-ID logging</li>
+        <li>Container-ready: Docker image running as a non-root user</li>
+        <li>GitHub Actions workflow for automated tests (pytest)</li>
+        <li>Roadmap: Kubernetes, Terraform, Prometheus/Grafana monitoring</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,docker,githubactions,sqlite&theme=dark" alt="CloudOps Platform stack: Python, FastAPI, Docker, GitHub Actions, SQLite"/>
+      <br/><br/>
+      <a href="https://github.com/Awab7-ux/cloudops-platform">
+        <img src="https://img.shields.io/badge/View_Repository-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="CloudOps Platform GitHub repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" alt="Flask, FastAPI, Node.js"/> &nbsp;REST APIs · JWT auth · Celery</td>
+  </tr>
+  <tr>
+    <td><b>Frontend &amp; Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="React, Tailwind CSS, Bootstrap"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis"/> &nbsp;pgvector</td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Intelligent Systems</b></td>
+    <td><img src="https://img.shields.io/badge/OpenAI_GPT_%26_Whisper-0A192F?style=flat-square&logo=openai&logoColor=38BDF8" alt="OpenAI GPT and Whisper"/> <img src="https://img.shields.io/badge/Semantic_Search-0A192F?style=flat-square&logoColor=38BDF8" alt="Semantic search"/> <img src="https://img.shields.io/badge/Sentence_Transformers-0A192F?style=flat-square&logoColor=38BDF8" alt="Sentence Transformers"/></td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,gcp,vercel&theme=dark" alt="Docker, Nginx, GitHub Actions, Google Cloud, Vercel"/></td>
+  </tr>
+  <tr>
+    <td><b>Testing &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/> &nbsp;pytest</td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Awab7-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1" alt="Awab7-ux GitHub stats"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Awab7-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&text_color=CBD5E1" alt="Awab7-ux most used languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Awab7-ux&theme=tokyonight&hide_border=true&background=0A192F&ring=06B6D4&fire=38BDF8&currStreakLabel=38BDF8" alt="Awab7-ux contribution streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awab7-ux&bg_color=0A192F&color=38BDF8&line=1D4ED8&point=06B6D4&area=true&hide_border=true" alt="Awab7-ux contribution activity graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Awab7-ux&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Awab7-ux GitHub trophies"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awab7-ux/Awab7-ux/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awab7-ux/Awab7-ux/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Awab7-ux/Awab7-ux/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 🎓 Certifications
+
+<div align="center">
+
+[![IBM Generative AI Engineering Professional Certificate](https://img.shields.io/badge/IBM-Generative_AI_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c)
+[![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM-DevOps_%26_Software_Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a)
+[![Continuous Integration and Continuous Delivery CI/CD](https://img.shields.io/badge/Coursera-CI%2FCD_Course-06B6D4?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0A192F)](https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52)
+
+<sub>Professional certificates and course-completion badges issued via Coursera and verifiable on Credly. They are not proctored vendor exams.</sub>
+
+</div>
+
+<br/>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+*I enjoy turning ideas into reliable, real-world software. Open to Software Engineer, Backend, Full-Stack and AI Engineer roles.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awab-imad-5a541637b)
+[![Email](https://img.shields.io/badge/Email-awabpasta%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awabpasta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Awab7--ux-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awab7-ux)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A192F,60:0B3C8C,100:06B6D4&section=footer" alt="Footer wave" width="100%"/>
+
+</div>
+
+
+
