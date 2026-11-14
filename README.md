@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0EA5E9,70:818CF8,100:C084FC&height=280&section=header&text=Awab%20Imad&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&stroke=ffffff&strokeWidth=1&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Full-Stack%20%E2%80%A2%20AI%20Integration&descSize=20&descAlignY=58" alt="Awab Imad - Software Engineer" width="100%"/>
+<img src="assets/hero.svg" alt="Awab Imad - Software Engineer, Backend and Full-Stack Developer" width="100%"/>
 
 <a href="https://github.com/Awab7-ux">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=38BDF8&background=00000000&center=true&vCenter=true&width=820&height=50&lines=%3E+Building+scalable+backend+systems;%3E+Python+%7C+Flask+%7C+FastAPI+%7C+REST+APIs;%3E+React+%26+React+Native+with+TypeScript;%3E+AI+%2F+LLM+apps+%E2%80%94+OpenAI+%7C+Groq+%7C+Whisper;%3E+Multi-Tenant+SaaS+%E2%80%A2+JWT+%E2%80%A2+RBAC;%3E+Docker+%7C+Kubernetes+%7C+CI%2FCD" alt="Typing animation"/>
@@ -37,7 +37,17 @@ Computing graduate (B.Sc., 2025) and aspiring Software Engineer specializing in 
 
 🎯 Open to **Software Engineer · Backend Developer · Full-Stack Developer · AI Engineer** roles, especially at startups in Egypt and the Gulf region.
 
+<div align="center">
+
+<img src="assets/terminal.svg" width="100%" alt="Animated terminal"/>
+
+<img src="assets/metrics.svg" width="100%" alt="Key metrics"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:0EA5E9,100:020617&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Featured Projects"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0EA5E9,100:020617&height=130&section=header&text=Sahatak%20%E2%80%94%20Telemedicine&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Bilingual%20Web%20%26%20Mobile%20Platform%20%E2%80%A2%202025%E2%80%932026&descSize=15&descAlignY=65" width="100%" alt="Sahatak"/>
 
@@ -90,6 +100,8 @@ flowchart LR
 
 <sub>Preliminary guidance only, not a medical diagnosis. Figures are historical project metrics, not live counters.</sub>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:818CF8,100:020617&height=130&section=header&text=Lexera%20%E2%80%94%20Contract%20Intelligence&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI-Powered%20Multi-Tenant%20SaaS%20%E2%80%A2%202026&descSize=15&descAlignY=65" width="100%" alt="Lexera"/>
 
 <div align="center">
@@ -128,6 +140,8 @@ flowchart TD
 
 <img src="https://skillicons.dev/icons?i=python,flask,react,ts,vite,tailwind,postgres,redis,docker,vercel&theme=dark" width="100%" alt="Lexera stack"/>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:2563EB,100:020617&height=130&section=header&text=CloudOps%20Platform&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Deploy%20%E2%80%A2%20Monitor%20%E2%80%A2%20Manage%20%E2%80%A2%202026%20(Active%20Development)&descSize=15&descAlignY=65" width="100%" alt="CloudOps"/>
 
 <div align="center">
@@ -164,6 +178,8 @@ flowchart LR
 <sub>Status: Kubernetes deployment not yet completed; uses SQLite and has no authentication yet. Roadmap: Terraform, Prometheus and Grafana.</sub>
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,vite,docker,nginx,kubernetes,githubactions,sqlite&theme=dark" width="100%" alt="CloudOps stack"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:06B6D4,100:020617&height=130&section=header&text=PMS%20%E2%80%94%20Project%20Management&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Multi-Tenant%20SaaS%20%E2%80%A2%20Active%20Development&descSize=15&descAlignY=65" width="100%" alt="PMS"/>
 
@@ -205,6 +221,8 @@ flowchart TD
 | [Medical Appointment](https://github.com/Awab7-ux/med_appt) | Doctor appointment booking frontend | JavaScript, HTML, CSS |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:818CF8,100:020617&height=110&section=header&text=Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Tech Stack"/>
+
+<img src="assets/skills.svg" width="100%" alt="Technologies"/>
 
 <div align="center">
 
@@ -353,4 +371,4 @@ flowchart TD
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,35:818CF8,70:0EA5E9,100:020617&height=200&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="Always building. Always learning."/>
