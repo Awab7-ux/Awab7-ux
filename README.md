@@ -311,12 +311,7 @@ A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Awab7-ux&bg_color=0A192F&color=38BDF8&line=2563EB&point=E6F1FF&area=true&hide_border=true" alt="Activity graph"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Awab7-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/Awab7-ux" alt="Contribution chart"/>
 <br/><br/>
 
 <picture>
