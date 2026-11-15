@@ -230,82 +230,51 @@ A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built
 | 📝 Transparency | Clearly distinguish implemented features from prototypes and roadmap items. |
 
 <img src="assets/sec-certs.svg" width="100%" alt="Certifications"/>
-
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/ibm/4589FF" height="30" alt="IBM"/>
-<br/>
-<sub><b>IBM · Professional Certificates (issued via Coursera)</b></sub>
-
 <table>
+
+<tr><td colspan="12" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="26" alt="IBM"/><br/><sub><b>IBM Professional Certificates · issued via Coursera</b></sub></td></tr>
 <tr>
-<td align="center" width="25%"><a href="https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c"><img src="https://images.credly.com/images/a1aad5af-5f28-44be-a736-e0a8988885b1/linkedin_thumb_Generative_AI_Engineering.png" width="120" alt="IBM Generative AI Engineering"/></a><br/><sub><b>Generative AI<br/>Engineering</b></sub></td>
-<td align="center" width="25%"><a href="https://www.credly.com/badges/291f1572-1fb6-437f-8d8e-33309a080d9d"><img src="https://images.credly.com/images/fa4ad241-cbb4-4330-9327-32b9696919fe/linkedin_thumb_Coursera_20AI_20Engineering_20Professional_20Certificate.png" width="120" alt="IBM AI Engineering"/></a><br/><sub><b>AI Engineering<br/>(V3)</b></sub></td>
-<td align="center" width="25%"><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="https://images.credly.com/images/17add978-0cea-40e8-8832-9492fc7c260b/linkedin_thumb_Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" width="120" alt="IBM Full Stack Software Developer"/></a><br/><sub><b>Full Stack Software<br/>Developer (V5)</b></sub></td>
-<td align="center" width="25%"><a href="https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a"><img src="https://images.credly.com/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/linkedin_thumb_image.png" width="120" alt="IBM DevOps and Software Engineering"/></a><br/><sub><b>DevOps & Software<br/>Engineering</b></sub></td>
+<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c"><img src="https://images.credly.com/images/a1aad5af-5f28-44be-a736-e0a8988885b1/linkedin_thumb_Generative_AI_Engineering.png" width="110" alt="IBM Generative AI Engineering"/></a><br/><sub><b>Generative AI<br/>Engineering</b></sub></td>
+<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/291f1572-1fb6-437f-8d8e-33309a080d9d"><img src="https://images.credly.com/size/340x340/images/fa4ad241-cbb4-4330-9327-32b9696919fe/image.png" width="110" alt="IBM AI Engineering"/></a><br/><sub><b>AI Engineering<br/>(V3)</b></sub></td>
+<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/image.png" width="110" alt="IBM Full Stack Software Developer"/></a><br/><sub><b>Full Stack Software<br/>Developer (V5)</b></sub></td>
+<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a"><img src="https://images.credly.com/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/linkedin_thumb_image.png" width="110" alt="IBM DevOps and Software Engineering"/></a><br/><sub><b>DevOps &amp; Software<br/>Engineering</b></sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.credly.com/badges/256a2c5f-fd42-4e66-a296-1cc817074482"><img src="https://images.credly.com/images/5aa05f53-1a60-4913-bf7e-e356f34bdb7e/linkedin_thumb_image.png" width="120" alt="IBM Back-End Development"/></a><br/><sub><b>Back-End<br/>Development</b></sub></td>
-<td align="center"><a href="https://www.credly.com/badges/22be3e92-1d34-4ae4-8bbc-8df1cfba22f1"><img src="https://images.credly.com/images/e646f624-ca3d-4917-9e90-16a051497bdb/linkedin_thumb_image.png" width="120" alt="IBM Front-End Developer"/></a><br/><sub><b>Front-End<br/>Developer</b></sub></td>
-<td align="center"><a href="https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52"><img src="https://images.credly.com/images/04d68dfe-1cdb-4083-8216-969f078f816a/linkedin_thumb_image.png" width="120" alt="CI/CD"/></a><br/><sub><b>Continuous Integration<br/>& Delivery (CI/CD)</b></sub></td>
-<td></td>
+<td colspan="4" align="center"><a href="https://www.credly.com/badges/256a2c5f-fd42-4e66-a296-1cc817074482"><img src="https://images.credly.com/images/5aa05f53-1a60-4913-bf7e-e356f34bdb7e/linkedin_thumb_image.png" width="110" alt="IBM Back-End Development"/></a><br/><sub><b>Back-End<br/>Development</b></sub></td>
+<td colspan="4" align="center"><a href="https://www.credly.com/badges/22be3e92-1d34-4ae4-8bbc-8df1cfba22f1"><img src="https://images.credly.com/images/e646f624-ca3d-4917-9e90-16a051497bdb/linkedin_thumb_image.png" width="110" alt="IBM Front-End Developer"/></a><br/><sub><b>Front-End<br/>Developer</b></sub></td>
+<td colspan="4" align="center"><a href="https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52"><img src="https://images.credly.com/images/04d68dfe-1cdb-4083-8216-969f078f816a/linkedin_thumb_image.png" width="110" alt="CI/CD"/></a><br/><sub><b>Continuous Integration<br/>&amp; Delivery (CI/CD)</b></sub></td>
 </tr>
-</table>
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="Google Cloud"/>
-<br/>
-<sub><b>Google Cloud · via Coursera</b></sub>
-
-<table>
+<tr><td colspan="12" align="center"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="24" alt="Google Cloud"/><br/><sub><b>Google Cloud · via Coursera</b></sub></td></tr>
 <tr>
-<td align="center" width="50%"><a href="https://www.coursera.org/account/accomplishments/professional-cert/7E6V8G5C9VCB"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="64" alt="Generative AI Leader"/></a><br/><sub><b>Generative AI Leader</b><br/>Professional Certificate</sub></td>
-<td align="center" width="50%"><a href="https://www.coursera.org/account/accomplishments/specialization/VW1JCPQRN6KW"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="64" alt="Cloud Engineer preparation"/></a><br/><sub><b>Preparing for Google Cloud<br/>Certification: Cloud Engineer</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/7E6V8G5C9VCB"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="70" alt="Generative AI Leader"/></a><br/><sub><b>Generative AI Leader</b><br/>Professional Certificate</sub></td>
+<td colspan="6" align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/VW1JCPQRN6KW"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="70" alt="Cloud Engineer preparation"/></a><br/><sub><b>Preparing for Google Cloud<br/>Certification: Cloud Engineer</b></sub></td>
 </tr>
-</table>
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/linuxfoundation/5B9BD5" height="30" alt="The Linux Foundation"/>
-<br/>
-<sub><b>The Linux Foundation</b></sub>
-
-<table>
+<tr><td colspan="12" align="center"><img src="https://cdn.simpleicons.org/linuxfoundation/5B9BD5" height="24" alt="The Linux Foundation"/><br/><sub><b>The Linux Foundation</b></sub></td></tr>
 <tr>
-<td align="center" width="50%"><a href="https://www.credly.com/badges/eb7a6a48-32bf-49f3-9c5e-18c53df944f5"><img src="https://images.credly.com/images/f193424d-0f7b-4e05-99df-82c8da2feec1/linkedin_thumb_blob" width="120" alt="LFD116"/></a><br/><sub><b>LFD116 · Software Engineering<br/>Basics for Embedded Systems</b></sub></td>
-<td align="center" width="50%"><a href="https://www.credly.com/badges/eb2fa784-1f56-4f3e-8acf-a08df55be1b0"><img src="https://images.credly.com/images/76c8bc91-42a6-4f06-9484-df961be2b0c8/linkedin_thumb_blob" width="120" alt="LFD125"/></a><br/><sub><b>LFD125 · Security for Software<br/>Development Managers</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.credly.com/badges/eb7a6a48-32bf-49f3-9c5e-18c53df944f5"><img src="https://images.credly.com/images/f193424d-0f7b-4e05-99df-82c8da2feec1/linkedin_thumb_blob" width="110" alt="LFD116"/></a><br/><sub><b>LFD116 · Software Engineering<br/>Basics for Embedded Systems</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.credly.com/badges/eb2fa784-1f56-4f3e-8acf-a08df55be1b0"><img src="https://images.credly.com/images/76c8bc91-42a6-4f06-9484-df961be2b0c8/linkedin_thumb_blob" width="110" alt="LFD125"/></a><br/><sub><b>LFD125 · Security for Software<br/>Development Managers</b></sub></td>
 </tr>
-</table>
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/cisco/049FD9" height="30" alt="Cisco"/>
-<br/>
-<sub><b>Cisco · OpenEDG Python Institute</b></sub>
-
-<table>
+<tr><td colspan="12" align="center"><img src="https://cdn.simpleicons.org/cisco/049FD9" height="24" alt="Cisco"/><br/><sub><b>Cisco · OpenEDG Python Institute</b></sub></td></tr>
 <tr>
-<td align="center" width="50%"><a href="https://www.credly.com/badges/1bdbdd77-c221-4137-9503-2320b55d7d9b"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" width="120" alt="Python Essentials 1"/></a><br/><sub><b>Python Essentials 1</b></sub></td>
-<td align="center" width="50%"><a href="https://www.credly.com/badges/34551515-18f2-4d15-8a70-9d5431b2697c"><img src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/linkedin_thumb_image.png" width="120" alt="Python Essentials 2"/></a><br/><sub><b>Python Essentials 2</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.credly.com/badges/1bdbdd77-c221-4137-9503-2320b55d7d9b"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/linkedin_thumb_image.png" width="110" alt="Python Essentials 1"/></a><br/><sub><b>Python Essentials 1</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.credly.com/badges/34551515-18f2-4d15-8a70-9d5431b2697c"><img src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/linkedin_thumb_image.png" width="110" alt="Python Essentials 2"/></a><br/><sub><b>Python Essentials 2</b></sub></td>
 </tr>
-</table>
 
-<br/>
-
-<img src="https://cdn.simpleicons.org/intel/0071C5" height="30" alt="Intel"/>
-<img src="https://cdn.simpleicons.org/anthropic/D97757" height="30" alt="Anthropic"/>
-<br/>
-<sub><b>Intel · Anthropic</b></sub>
-
-<table>
+<tr><td colspan="12" align="center"><img src="https://cdn.simpleicons.org/intel/0071C5" height="24" alt="Intel"/> &nbsp; <img src="https://cdn.simpleicons.org/anthropic/D97757" height="24" alt="Anthropic"/><br/><sub><b>Intel &amp; Anthropic</b></sub></td></tr>
 <tr>
-<td align="center" width="50%"><a href="https://www.credly.com/badges/cc9f1f80-8a8f-43cc-81a2-d75466563701"><img src="https://images.credly.com/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/linkedin_thumb_image.png" width="120" alt="Intel Cloud DevOps"/></a><br/><sub><b>Intel · Cloud DevOps</b></sub></td>
-<td align="center" width="50%"><a href="https://academy.claude.com/verify/deba52bca0addab500f01e7f73539484"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="64" alt="Anthropic AI Fluency"/></a><br/><sub><b>Anthropic · AI Fluency<br/>for Nonprofits</b></sub></td>
+<td colspan="6" align="center"><a href="https://www.credly.com/badges/cc9f1f80-8a8f-43cc-81a2-d75466563701"><img src="https://images.credly.com/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/linkedin_thumb_image.png" width="110" alt="Intel Cloud DevOps"/></a><br/><sub><b>Intel · Cloud DevOps</b></sub></td>
+<td colspan="6" align="center"><a href="https://academy.claude.com/verify/deba52bca0addab500f01e7f73539484"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="70" alt="Anthropic AI Fluency"/></a><br/><sub><b>Anthropic · AI Fluency<br/>for Nonprofits</b></sub></td>
 </tr>
+
 </table>
 
 </div>
+
 <details>
 <summary><b>📜 Full certification list</b></summary>
 
