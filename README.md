@@ -232,17 +232,26 @@ A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built
 <img src="assets/sec-certs.svg" width="100%" alt="Certifications"/>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Verified_Credentials-15-22C55E?style=for-the-badge" alt="15 verified credentials"/>
+<img src="https://img.shields.io/badge/15-Verified_Credentials-22C55E?style=for-the-badge&logo=credly&logoColor=white" alt="15 verified credentials"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IBM-7-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM 7"/>
+<img src="https://img.shields.io/badge/Google_Cloud-2-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud 2"/>
+<img src="https://img.shields.io/badge/Linux_Foundation-2-003366?style=flat-square&logo=linuxfoundation&logoColor=white" alt="Linux Foundation 2"/>
+<img src="https://img.shields.io/badge/Cisco-2-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco 2"/>
+<img src="https://img.shields.io/badge/Intel-1-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel 1"/>
+<img src="https://img.shields.io/badge/Anthropic-1-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic 1"/>
 
 <br/><br/>
 
 <table width="100%">
 
-<tr><td colspan="12" align="center"><img src="https://img.shields.io/badge/IBM-Professional_Certificates_%C2%B7_via_Coursera-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></td></tr>
+<tr><td colspan="12" align="center"><img src="https://img.shields.io/badge/IBM-7_Professional_Certificates_%C2%B7_via_Coursera-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></td></tr>
 <tr>
 <td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c"><img src="https://images.credly.com/size/340x340/images/a1aad5af-5f28-44be-a736-e0a8988885b1/Generative_AI_Engineering.png" width="120" height="120" alt="IBM Generative AI Engineering"/></a><br/><sub><b>Generative AI<br/>Engineering</b></sub><br/><a href="https://www.credly.com/badges/1b787526-1c64-41a5-9687-d5ea45afe68c"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
 <td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/291f1572-1fb6-437f-8d8e-33309a080d9d"><img src="https://images.credly.com/size/340x340/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" width="120" height="120" alt="IBM AI Engineering"/></a><br/><sub><b>AI Engineering<br/>(V3)</b></sub><br/><a href="https://www.credly.com/badges/291f1572-1fb6-437f-8d8e-33309a080d9d"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
-<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="assets/ibm-fullstack.png" width="120" height="120" alt="IBM Full Stack Software Developer"/></a><br/><sub><b>Full Stack<br/>Developer (V5)</b></sub><br/><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
+<td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="https://wsrv.nl/?url=https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png&amp;w=240&amp;h=240" width="120" height="120" alt="IBM Full Stack Software Developer"/></a><br/><sub><b>Full Stack<br/>Developer (V5)</b></sub><br/><a href="https://www.credly.com/badges/43a3356d-6907-45a3-86f2-f302f13957bb"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
 <td colspan="3" align="center" width="25%"><a href="https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a"><img src="https://images.credly.com/size/340x340/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" width="120" height="120" alt="IBM DevOps and Software Engineering"/></a><br/><sub><b>DevOps &amp;<br/>Software Eng.</b></sub><br/><a href="https://www.credly.com/badges/db59f61d-ce17-44b6-aac2-22ac3f78406a"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
 </tr>
 <tr>
@@ -251,7 +260,7 @@ A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built
 <td colspan="4" align="center"><a href="https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52"><img src="https://images.credly.com/size/340x340/images/04d68dfe-1cdb-4083-8216-969f078f816a/image.png" width="120" height="120" alt="CI/CD"/></a><br/><sub><b>CI/CD<br/>Int. &amp; Delivery</b></sub><br/><a href="https://www.credly.com/badges/50ee3989-fa66-4d57-a522-22a7f1e35f52"><img src="https://img.shields.io/badge/Verify-Credly-0F62FE?style=flat-square" alt="Verify"/></a></td>
 </tr>
 
-<tr><td colspan="12" align="center"><img src="https://img.shields.io/badge/Google_Cloud-Coursera_Credentials-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></td></tr>
+<tr><td colspan="12" align="center"><img src="https://img.shields.io/badge/Google_Cloud-2_Coursera_Credentials-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></td></tr>
 <tr>
 <td colspan="6" align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/7E6V8G5C9VCB"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="120" height="120" alt="Generative AI Leader"/></a><br/><sub><b>Generative AI Leader<br/>Professional Certificate</b></sub><br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/7E6V8G5C9VCB"><img src="https://img.shields.io/badge/Verify-Coursera-4285F4?style=flat-square" alt="Verify"/></a></td>
 <td colspan="6" align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/VW1JCPQRN6KW"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="120" height="120" alt="Cloud Engineer preparation"/></a><br/><sub><b>Cloud Engineer<br/>Certification Prep</b></sub><br/><a href="https://www.coursera.org/account/accomplishments/specialization/VW1JCPQRN6KW"><img src="https://img.shields.io/badge/Verify-Coursera-4285F4?style=flat-square" alt="Verify"/></a></td>
@@ -274,6 +283,8 @@ A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built
 <td colspan="6" align="center"><a href="https://www.credly.com/badges/cc9f1f80-8a8f-43cc-81a2-d75466563701"><img src="https://images.credly.com/size/340x340/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" width="120" height="120" alt="Intel Cloud DevOps"/></a><br/><sub><b>Cloud<br/>DevOps</b></sub><br/><a href="https://www.credly.com/badges/cc9f1f80-8a8f-43cc-81a2-d75466563701"><img src="https://img.shields.io/badge/Verify-Credly-0071C5?style=flat-square" alt="Verify"/></a></td>
 <td colspan="6" align="center"><a href="https://academy.claude.com/verify/deba52bca0addab500f01e7f73539484"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="120" height="120" alt="Anthropic AI Fluency"/></a><br/><sub><b>AI Fluency<br/>for Nonprofits</b></sub><br/><a href="https://academy.claude.com/verify/deba52bca0addab500f01e7f73539484"><img src="https://img.shields.io/badge/Verify-Claude_Academy-D97757?style=flat-square" alt="Verify"/></a></td>
 </tr>
+
+<tr><td colspan="12" align="center"><sub>Click any badge or <b>Verify</b> to open its official credential page.</sub></td></tr>
 
 </table>
 
