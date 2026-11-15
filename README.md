@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0EA5E9,100:818CF8&height=110&section=header&text=About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="About Me"/>
+<img src="assets/sec-about.svg" width="100%" alt="About Me"/>
 
 Computing graduate (B.Sc., 2025) and aspiring Software Engineer specializing in **backend and full-stack development**. I built **three end-to-end projects** with Python/Flask, React, REST APIs, PostgreSQL, JWT authentication and AI/LLM integration, including a **bilingual telemedicine platform with 56 registered users**.
 
@@ -45,11 +45,15 @@ Computing graduate (B.Sc., 2025) and aspiring Software Engineer specializing in 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:0EA5E9,100:020617&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Featured Projects"/>
+<img src="assets/sec-journey.svg" width="100%" alt="Journey"/>
+
+<img src="assets/timeline.svg" width="100%" alt="Career timeline"/>
+
+<img src="assets/sec-projects.svg" width="100%" alt="Featured Projects"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0EA5E9,100:020617&height=130&section=header&text=Sahatak%20%E2%80%94%20Telemedicine&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Bilingual%20Web%20%26%20Mobile%20Platform%20%E2%80%A2%202025%E2%80%932026&descSize=15&descAlignY=65" width="100%" alt="Sahatak"/>
+<img src="assets/project-sahatak.svg" width="100%" alt="Sahatak"/>
 
 <div align="center">
 
@@ -66,18 +70,7 @@ Computing graduate (B.Sc., 2025) and aspiring Software Engineer specializing in 
 
 A bilingual (Arabic / English) healthcare platform connecting patients and doctors through remote consultations, appointment booking, medical records and AI-assisted preliminary symptom assessment.
 
-```mermaid
-flowchart TD
-    P["Patient Mobile App<br/>React Native · Expo · TypeScript"]
-    W["Web Portal<br/>Patient · Doctor · Admin"]
-    P --> API
-    W --> API
-    API["Flask REST API<br/>SQLAlchemy · JWT · RBAC"]
-    API --> DB[("MySQL / SQLite")]
-    API --> AI["OpenAI API<br/>GPT · Whisper"]
-    API --> J["Jitsi Meet<br/>Video Consultations"]
-    API --> CHAT["Real-time Chat<br/>Files · Typing · Read receipts"]
-```
+<img src="assets/arch-sahatak.svg" width="100%" alt="Architecture diagram"/>
 
 **Highlights**
 
@@ -102,7 +95,7 @@ flowchart LR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:818CF8,100:020617&height=130&section=header&text=Lexera%20%E2%80%94%20Contract%20Intelligence&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI-Powered%20Multi-Tenant%20SaaS%20%E2%80%A2%202026&descSize=15&descAlignY=65" width="100%" alt="Lexera"/>
+<img src="assets/project-lexera.svg" width="100%" alt="Lexera"/>
 
 <div align="center">
 
@@ -117,19 +110,7 @@ flowchart LR
 
 </div>
 
-```mermaid
-flowchart TD
-    U["Users"] --> FE["React + TypeScript<br/>Vercel"]
-    FE --> API["Flask REST API<br/>Railway"]
-    API --> AUTH["JWT + RBAC<br/>Admin · Manager · Viewer"]
-    API --> TENANT["Organization-Level Data Isolation"]
-    API --> WORKER["Celery + Redis<br/>Upstash"]
-    WORKER --> AI["Groq-hosted LLMs<br/>Risk Analysis"]
-    WORKER --> EMB["Sentence Transformers<br/>Local Embeddings"]
-    AI --> DB[("PostgreSQL + pgvector<br/>Neon")]
-    EMB --> DB
-    TENANT --> DB
-```
+<img src="assets/arch-lexera.svg" width="100%" alt="Architecture diagram"/>
 
 **Highlights**
 
@@ -138,11 +119,17 @@ flowchart TD
 - 🔎 Semantic search with PostgreSQL/pgvector, Groq-hosted LLMs and local sentence-transformer embeddings.
 - 🚀 REST APIs and a React/TypeScript front end deployed across four services: Railway, Neon, Upstash and Vercel.
 
+<div align="center">
+
+<img src="assets/code.svg" width="80%" alt="Illustrative tenant-scoped query"/>
+
+</div>
+
 <img src="https://skillicons.dev/icons?i=python,flask,react,ts,vite,tailwind,postgres,redis,docker,vercel&theme=dark" width="100%" alt="Lexera stack"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:2563EB,100:020617&height=130&section=header&text=CloudOps%20Platform&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Deploy%20%E2%80%A2%20Monitor%20%E2%80%A2%20Manage%20%E2%80%A2%202026%20(Active%20Development)&descSize=15&descAlignY=65" width="100%" alt="CloudOps"/>
+<img src="assets/project-cloudops.svg" width="100%" alt="CloudOps"/>
 
 <div align="center">
 
@@ -159,17 +146,7 @@ flowchart TD
 
 A cloud engineering platform that simplifies application deployment, automates testing through CI/CD, and manages containerized applications with Docker and Kubernetes.
 
-```mermaid
-flowchart LR
-    DEV["Developer"] --> GIT["GitHub"]
-    GIT --> CI["GitHub Actions"]
-    CI --> TEST["Automated Tests"]
-    TEST --> BUILD["Docker Build"]
-    BUILD --> COMPOSE["Docker Compose"]
-    COMPOSE --> K8["Kubernetes / kind<br/>Manifests prepared"]
-    K8 -.-> MON["Prometheus / Grafana<br/>Roadmap"]
-    GIT -.-> TF["Terraform<br/>Roadmap"]
-```
+<img src="assets/arch-cloudops.svg" width="100%" alt="Architecture diagram"/>
 
 - ✅ FastAPI backend (**4 API endpoints**, **5 automated tests**) and React/TypeScript/Vite frontend served via Nginx.
 - ✅ Docker and Docker Compose, plus **1 GitHub Actions CI workflow** for backend and frontend testing.
@@ -181,7 +158,7 @@ flowchart LR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:06B6D4,100:020617&height=130&section=header&text=PMS%20%E2%80%94%20Project%20Management&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Multi-Tenant%20SaaS%20%E2%80%A2%20Active%20Development&descSize=15&descAlignY=65" width="100%" alt="PMS"/>
+<img src="assets/project-pms.svg" width="100%" alt="PMS"/>
 
 <div align="center">
 
@@ -191,24 +168,13 @@ flowchart LR
 
 A multi-tenant project management SaaS inspired by Jira, Asana and Trello, built to manage organizations, teams, projects and collaborative workflows.
 
-```mermaid
-flowchart TD
-    SA["Super Admin"] --> ORG["Organizations"]
-    ORG --> OWNER["Organization Owners"]
-    OWNER --> TEAM["Teams"]
-    TEAM --> PROJECT["Projects"]
-    PROJECT --> TASK["Tasks & Subtasks"]
-    ORG --> BACK["Flask Backend"]
-    BACK --> AUTH["Authentication · JWT"]
-    BACK --> RBAC["Role-Based Access"]
-    BACK --> DB["SQLAlchemy · Migrations"]
-```
+<img src="assets/arch-pms.svg" width="100%" alt="Architecture diagram"/>
 
 <sub>The backend foundation is implemented; some product modules and UI features remain planned or prototyped.</sub>
 
 <img src="https://skillicons.dev/icons?i=python,flask,postgres,redis,docker,nginx,bootstrap&theme=dark" width="100%" alt="PMS stack"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:818CF8,100:0EA5E9&height=110&section=header&text=Other%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Other Projects"/>
+<img src="assets/sec-other.svg" width="100%" alt="Other Projects"/>
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -220,7 +186,13 @@ flowchart TD
 | [Backend Development Capstone](https://github.com/Awab7-ux/Back-end-Development-Capstone) | Concert website backend | Django |
 | [Medical Appointment](https://github.com/Awab7-ux/med_appt) | Doctor appointment booking frontend | JavaScript, HTML, CSS |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:818CF8,100:020617&height=110&section=header&text=Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Tech Stack"/>
+<img src="assets/sec-stack.svg" width="100%" alt="Tech Stack"/>
+
+<div align="center">
+
+<img src="assets/orbit.svg" width="75%" alt="Technologies orbiting"/>
+
+</div>
 
 <img src="assets/skills.svg" width="100%" alt="Technologies"/>
 
@@ -246,7 +218,7 @@ flowchart TD
 | **DevOps & Tools** | Docker · Kubernetes · Nginx · Git · GitHub · CI/CD · Railway · Vercel · Neon · Upstash |
 | **Testing** | pytest · Automated Backend Testing · API Integration · System Design |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0EA5E9,100:818CF8&height=110&section=header&text=Engineering%20Principles&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Engineering Principles"/>
+<img src="assets/sec-principles.svg" width="100%" alt="Engineering Principles"/>
 
 | Principle | My Approach |
 |---|---|
@@ -257,7 +229,7 @@ flowchart TD
 | 🤖 Practical AI | Integrate AI into real workflows with clear limitations and safeguards. |
 | 📝 Transparency | Clearly distinguish implemented features from prototypes and roadmap items. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:0EA5E9,100:020617&height=110&section=header&text=Certifications&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Certifications"/>
+<img src="assets/sec-certs.svg" width="100%" alt="Certifications"/>
 
 <div align="center">
 
@@ -321,12 +293,12 @@ flowchart TD
 
 <sub>Verify credentials through the linked Credly pages. These are professional certificates and course-completion credentials, not proctored vendor certification exams.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:818CF8,100:020617&height=110&section=header&text=Education&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="Education"/>
+<img src="assets/sec-education.svg" width="100%" alt="Education"/>
 
 🎓 **Bachelor of Science (B.Sc.) in Computing** — Future University, Khartoum, Sudan · 2021 – 2025
 🌐 Languages: Arabic, English
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:818CF8,100:0EA5E9&height=110&section=header&text=GitHub%20Analytics&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=48" width="100%" alt="GitHub Analytics"/>
+<img src="assets/sec-analytics.svg" width="100%" alt="GitHub Analytics"/>
 
 <div align="center">
 
